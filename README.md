@@ -10,7 +10,6 @@ A Geometry Dash texture pack that aims to fix all of GD's vanilla icons with inc
 - Wrongly offset parts.
 
 ## Commit Tags
-
 On some commits to the pack you will find certain "tags", you will see texts like "[U]" or "[G]", these are meant to explain what exactly was done to the icon. Here's what each of them mean so you are aware of how progress is being done:
 
 - [U] - Icon was Undithered.
@@ -19,3 +18,8 @@ On some commits to the pack you will find certain "tags", you will see texts lik
 - [G] - Stands for Glow. The icon's Glow was fixed.
 - [R] - Stands for Remake. The icon was remade entirely.
 - [WS] - Stands for Wrong Symmetry. The icon's symmetry was fixed.
+
+## Credits
+- RobTopGames: Made this project a reality by actively forgetting to disable dithering for his icon exports despite he himself switching the game to RGB8888 in 2.2. We kinda hate you. Lowk. Highk.
+- [**EthanHazel**](https://github.com/EthanHazel): Contributed to fixing some icons.
+- [**AsRenCL**](https://github.com/asr3n): Contributing to fixing some icons.
